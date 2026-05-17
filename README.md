@@ -104,7 +104,7 @@ lib/
 
 **Free Dictionary API** — [dictionaryapi.dev](https://dictionaryapi.dev/)
 - Gratuita, sem necessidade de cadastro ou chave de API.
-- Retorna definições, fonética, áudio, sinônimos, antônimos e exemplos
+- Retorna definições, fonética, áudio, sinônimos, antônimos e exemplos.
 
 ---
 
